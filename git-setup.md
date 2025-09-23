@@ -21,23 +21,6 @@ git --version
 git --version
 ```
 
-### Linux (Debian/Ubuntu)
-```bash
-sudo apt update
-sudo apt install git -y
-git --version
-```
-
-### macOS
-
-- If you have **Homebrew**:
-
-```bash
-brew install git
-```
-
-- Or download from [git-scm.com](https://git-scm.com/download/mac)
-
 ---
 
 ## ⚙️ Step 3: Configure Git
