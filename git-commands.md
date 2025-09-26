@@ -91,6 +91,7 @@ git pull --rebase origin <branch_name>
 git stash          # Save current changes
 git stash pop      # Apply the stashed changes back
 git stash list     # See all stashed changes
+git stash apply    # Apply changes but keeps them in the list
 
 ```
 
