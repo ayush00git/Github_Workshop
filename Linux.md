@@ -21,3 +21,7 @@
 ## Miscellaneous
 - `whoami` → Show your username
 - `clear` → Clear the terminal screen
+
+## File Permissions
+chmod +x <file_permission> <file_name>
+chown <file_name>
